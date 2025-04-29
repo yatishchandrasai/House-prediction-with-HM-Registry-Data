@@ -26,4 +26,4 @@ Extrme Gradient Boosting - RMSE - 1.74 M	- R^2 : 0.40
 ## Access to the files
 Download for the pre-trained models, data can be found in this drive link [drive link](https://drive.google.com/drive/folders/102OFEHgrfmLh2d6ygvDdRjD7_5NZ3JF_?usp=sharing).
 OR
-Download the CSV from this [link](https://herts365-my.sharepoint.com/:f:/g/personal/yu23aac_herts_ac_uk/EjSi0YhxuGxDlLO5rdyJUvsBCTgFSnnqKd1Zc2ciMlk0Tw?e=y5HTXx). 
+Download from onedrive with this [link](https://herts365-my.sharepoint.com/:f:/g/personal/yu23aac_herts_ac_uk/EjSi0YhxuGxDlLO5rdyJUvsBCTgFSnnqKd1Zc2ciMlk0Tw?e=y5HTXx). 
