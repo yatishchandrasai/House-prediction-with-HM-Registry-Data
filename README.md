@@ -23,6 +23,8 @@ Model |	RMSE| (£)	R²
 Linear regression model - RMSE: 2.21 M	R^2 : 0.04
 Decision Tree model - RMSE-1.82 M	R^2 : 0.35
 Extrme Gradient Boosting - RMSE - 1.74 M	- R^2 : 0.40
+
+# Best model : XGboost 
 ## Access to the files
 Download for the pre-trained models, data can be found in this drive link [drive link](https://drive.google.com/drive/folders/102OFEHgrfmLh2d6ygvDdRjD7_5NZ3JF_?usp=sharing).
 OR
